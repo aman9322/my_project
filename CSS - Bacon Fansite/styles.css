@@ -1,0 +1,17 @@
+h1{
+   color: red;
+   font-size: 100px;
+}
+/*img{
+  background-color: red;
+}
+*/
+.first{
+  background-color: red;
+}
+.second{
+  background-color: green;
+}
+img:hover{
+  background-color: black;
+}
